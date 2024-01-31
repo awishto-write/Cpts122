@@ -1,2 +1,2 @@
 # Cpts122
-Data Structure
+Assignments for the Data Structures C/C++ course
